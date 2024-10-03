@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a fullstack project in CNTD-Togo (current job)<br>I am looking to collaborate on more frontend projects<br>I am currently learning Flask and React , like to be advanced<br><br>Ask me about any question on Tailwind Css and React<br><br>Fun fact, i teach english as a hobby
+I am currently working on a fullstack project called Bankyard (current side project)<br>I am looking to collaborate on more frontend projects<br>I am currently learning Flask and React , like to be advanced<br><br>Ask me about any question on Tailwind Css and React<br><br>Fun fact, i teach english as a hobby
 
 
 ## 🌐 Socials:
